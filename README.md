@@ -1,2 +1,3 @@
-# Verifinger
-This repository contains ML approaches to identify overlapped fingerprints
+## Verifinger
+
+This repository contains the ML approaches to identify various overlapped fingerprints
